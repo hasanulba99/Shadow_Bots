@@ -3,3 +3,4 @@ pandas
 requests
 transformers==4.36.2
 openai
+torch
