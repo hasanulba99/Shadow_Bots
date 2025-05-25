@@ -1,6 +1,6 @@
 streamlit
 pandas
 requests
-transformers
-sentencepiece
+transformers==4.28.1
+sentencepiece==0.1.99
 openai
