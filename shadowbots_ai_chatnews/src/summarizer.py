@@ -1,7 +1,7 @@
 from transformers import pipeline
 
 class NewsSummarizer:
-    def __init__(self, model_name="sshleifer/distilbart-cnn-12-6"):
+    def __init__(self, model_name="Falconsai/text_summarization"):
         self.summarizer = pipeline("summarization", model=model_name)
 
     def summarize(self, text):
