@@ -2,4 +2,5 @@ streamlit
 pandas
 requests
 transformers==4.28.1
+sentencepiece==0.1.95
 openai
