@@ -12,6 +12,7 @@
 - `line plot Sales and Profit by Year`
 - `bar plot Revenue by Region`
 - `barh plot Quantity by Product`
+- 
 **Important:** Make sure to type the CSV column names **exactly as they appear** in your CSV (case-insensitive but spaces and spelling must match).  
 If you omit or mistype column names, the plot will not generate correctly.
 ShadowBot will generate the requested plots from your CSV data.
