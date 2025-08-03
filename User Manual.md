@@ -1,4 +1,5 @@
-## How to Use ShadowBot Chatbot (Check Readme First)
+## Check Readme First
+## How to Use ShadowBot Chatbot
 
 ### Chatting with ShadowBot
 - Type any question or message into the input box and press **Enter**.
