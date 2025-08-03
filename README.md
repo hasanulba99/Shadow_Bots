@@ -15,12 +15,13 @@ A local AI chatbot powered by LLaMA 3.2 using Ollama, with CSV plotting and Wiki
 - Pillow  
 
 Install all required Python packages using:
-
 ```bash
 pip install langchain langchain-community langchain-ollama wikipedia pandas matplotlib pillow
 
-Local LLMs needed to run this chatbot. 
-## 🧠 How to Install and Run LLaMA 3.2 for ShadowBot
+
+
+
+# 🧠 How to Install and Run LLaMA 3.2 for ShadowBot
 
 To make the chatbot work, you need to install and run the `llama3.2` model using [Ollama](https://ollama.com/).
 
